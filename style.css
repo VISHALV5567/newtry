@@ -1,0 +1,402 @@
+.body{
+    background: linear-gradient( #0A192F, #003153);
+    /*  ,#86AFD5 */
+    height: 1790px;
+}
+.header{
+    height: 115px;
+    background-color: ;
+
+    margin-top: 20px;
+    color: white;
+    display: grid;
+    grid-template-columns: 58% 5% 5% 5% 5% 2% 5% 5% 5% 5%;
+}
+.name{
+    background-color: ;
+    font-family: "Sedan", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 45px;
+  margin-top: 35PX;
+  margin-bottom: 35PX;
+  margin-left: 20PX;
+}
+.contact{
+    font-size: 17.5px;
+    background-color: #0A192F;
+    font-weight: 600;
+  font-style: normal;
+  margin-top: 49PX;
+  margin-bottom: 49PX;
+  color: white;
+  text-align: center;
+  
+ 
+}
+
+.hbtn{
+   height: 40px;
+   margin-top: 40px;
+   border-radius: 110%;
+   margin-left: ;
+   
+   
+   
+}
+
+.hbtn2{
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+   margin-top: 39px;
+   border-radius: 100%;
+}
+
+.hbtn3{
+    height: 40px;
+    margin-top: 42px;
+    border-radius: 100%;
+}
+
+
+.hbtn4{
+    height: 40px;
+    margin-top: 42px;
+    border-radius: 100%;
+    margin-right: ;
+}
+
+.bioandpic{
+    margin-top: 25px;
+    display: grid;
+    height: 400px;
+    grid-template-columns: 46% 54%;
+}
+
+
+
+
+.bio{
+   
+}
+.biotxt{
+    font-size: 34px;
+    margin-left: 45px;
+    color: beige;
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.pic{
+    background-color: ;
+}
+@media (min-width: 426px )
+{
+    
+
+.pic1{
+    margin-left: 170px;
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
+    margin-top: 25px;
+     clip-path:  polygon(50% 0%, 83% 12%, 
+     100% 43%, 94% 78%,
+     68% 100%, 32% 100%, 6% 78%, 0% 43%, 17% 12%);
+} }
+.line{
+    width: 200px;
+margin-left: 70%;
+margin-top: px;
+display: ;
+}
+.intro{
+    background-color: ;
+    height: 750px;
+    margin-top: 25px;
+    display: grid;
+    grid-template-columns: 30% 25% 45%;
+}
+.intw{
+    text-align: ;
+    background-color:;
+    font-size: 27px;
+    margin-left: 200px;
+    color: beige;
+    font-family: "Sedan", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.pint{
+    background-color: ;
+    margin-right: 45px;
+}
+.inttext{
+    text-align: ;
+    background-color: ;
+    font-size: 32px;
+    margin-left: px;
+    color: beige;
+    font-family: "Sedan", serif;
+    font-weight: 700;
+    font-style: normal;
+    margin-left: ;
+}
+
+.footer{
+     /* background-color: #86AFD5; */
+     background-color: ;
+     height: 470px;
+     padding-top: 10px;
+    background-image: url(anders-jilden-uwbajDCODj4-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}.fname{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    font-family: "Sedan", serif;
+    font-weight: 700;
+    font-style: italic;
+    color: #86AFD5;
+
+}
+
+@media (max-width: 425px )
+{
+.body{
+        background: linear-gradient( #0A192F, #003153);
+       
+        /*   ,#86AFD5 */
+        height: 1235px;
+      
+    }
+    
+    .header{
+        height: 115px;
+        background-color: ;
+    
+        margin-top: 20px;
+        color: white;
+        display: block;
+       
+        grid-template-columns:  ;
+        column-gap: px
+    }
+    .mx425{
+        display: grid;
+        grid-template-columns: 100px 100px 100px 100px;
+        height: 55px;
+        background-color: ;
+    }
+    .mx4255{
+        display: grid;
+        grid-template-columns: 100px 100px 100px 100px;
+        column-gap px; 
+        margin-left: 35px;
+        background-color: ;
+        height: 60px
+    }
+
+
+
+    .name{
+        background-color: ;
+        font-family: "Sedan", serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 20px;
+      margin-top: 17PX;
+      margin-bottom: 35PX;
+      margin-left: PX;
+    }
+    .contact{
+        font-size: 8px;
+        background-color: #0A192F;
+        font-weight: 200;
+      font-style: normal;
+      margin-top: 17PX;
+      margin-bottom: PX;
+      color: white;
+      text-align: ;
+      
+     
+    }
+    
+    .hbtn{
+       height: 40px;
+       margin-top: 5px;
+       border-radius: 110%;
+       margin-left: 0px;
+       
+       
+       
+    }
+    
+    .hbtn2{
+        height: 40px;
+        width: 40px;
+        object-fit: cover;
+       margin-top: 5px;
+       border-radius: 100%;
+    }
+    
+    .hbtn3{
+        height: 40px;
+        margin-top: 5px;
+        border-radius: 100%;
+    }
+    
+    
+    .hbtn4{
+        height: 40px;
+        margin-top: 5px;
+        border-radius: 100%;
+        margin-right: ;
+    }
+    
+    .bioandpic{
+        margin-top: 115px;
+        display: grid;
+        height: 235px;
+        grid-template-columns: 46% 54%;
+    }
+    
+    
+    
+    
+    .bio{
+       
+    }
+    .biotxt{
+        font-size: 20px;
+        margin-left: 20px;
+        color: beige;
+        font-family: "Sedan", serif;
+        font-weight: 400;
+        font-style: normal;
+        margin-bottom: 0%;
+        
+    }
+    
+    .pic{
+       
+    }
+    
+    .pic1{
+        margin-top: px;
+        height: 150px;
+        align-items: ;
+        width:  250px;
+        margin-left: 78px;
+        margin-right: ;
+        border-radius: 20px;
+        object-fit: cover;
+       
+        }
+    .line{
+        width: px;
+    margin-left: 95px;
+    margin-top: px;
+    display: ;
+    
+    }
+    .intro{
+        background-color: ;
+        height: 340px;
+        margin-top: 20px;
+        display: grid;
+        grid-template-columns: 5% 5% 90%;
+    }
+    .intw{
+        text-align: ;
+        background-color:;
+        margin-top: 20px;
+        margin-right: px;
+        font-size: 20px;
+        margin-left: 0px;
+        color: beige;
+        font-family: "Sedan", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    .pint{
+        background-color: ;
+        margin-right: 45px;
+        margin-top: 50px;
+        margin-right: ;
+    }
+    .inttext{
+        text-align: ;
+        background-color: ;
+        font-size: 14px;
+        margin-left: px;
+        color: beige;
+        font-family: "Sedan", serif;
+        font-weight: 700;
+        font-style: normal;
+        margin-left: 0;
+    }
+    
+    
+    .footer{
+         /* background-color: #86AFD5; */
+         background-color: ;
+         height: 200px;
+         padding-top: px;
+        background-image: url(anders-jilden-uwbajDCODj4-unsplash.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        font-size: 15PX;
+        padding-left: 7PX;
+        
+    }
+    .end{
+        text-align: center;
+        color: beige;
+        font-family: "Sedan", serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 25px;
+        height: ;
+        margin-top: 10;
+
+    }
+    
+    .endimg{
+        height: 25px;
+        display: block;
+        width: 25px;
+        object-fit: cover;
+        margin-top: 5PX;
+        border-radius: 20PX;
+        }
+
+    
+    .endimg1{
+        height: 25px;
+        display: block;
+        object-fit: cover;
+        margin-top: 5px;
+        border-radius: 20PX;
+    }
+    
+    
+    .fname{
+        text-align: center;
+        font-size: 35px;
+        margin-top: 0px;
+        margin-bottom: 0;
+        font-family: "Sedan", serif;
+        font-weight: 700;
+        font-style: italic;
+        color: #86AFD5;
+    
+    }
+}

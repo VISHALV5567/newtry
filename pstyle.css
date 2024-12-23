@@ -1,0 +1,63 @@
+.body{
+    background-color: #0A192F;
+}
+
+.header{
+    height: 115px;
+    background-color: #0A192F;
+    margin-top: 20px;
+    color: white;
+    display: grid;
+    grid-template-columns: 60% 5% 5% 5% 5% 5% 5% 5% 5%;
+}
+.name{
+    background-color: #0A192F;
+    font-family: "Sedan", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 45px;
+  margin-top: 35PX;
+  margin-bottom: 35PX;
+  margin-left: 20PX;
+}
+.contact{
+    font-size: 17.5px;
+    background-color: #0A192F;
+    font-weight: 600;
+  font-style: normal;
+  margin-top: 49PX;
+  margin-bottom: 49PX;
+  color: white;
+  
+ 
+}
+
+.hbtn{
+   height: 40px;
+   margin-top: 40px;
+   border-radius: 110%;
+   
+   
+}
+
+.hbtn2{
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+   margin-top: 39px;
+   border-radius: 100%;
+}
+
+.hbtn3{
+    height: 40px;
+    margin-top: 42px;
+    border-radius: 100%;
+}
+
+
+.hbtn4{
+    height: 40px;
+    margin-top: 42px;
+    border-radius: 100%;
+}
+
